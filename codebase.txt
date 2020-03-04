@@ -5,4 +5,5 @@ function code() {
 	echo "deleted";
 	echo "edited file";
 	echo "new line";
+	echo "yet another change";
 }
