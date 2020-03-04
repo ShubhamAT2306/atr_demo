@@ -1,4 +1,8 @@
 function code() {
 	echo "contains codebase in dev branch";
 	echo "changes made to master";
+	echo "check this one branch";
+	echo "deleted";
+	echo "edited file";
+	echo "new line";
 }
