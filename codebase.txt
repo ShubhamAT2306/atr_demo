@@ -2,4 +2,5 @@ function code() {
 	echo "contains codebase in dev branch";
 	echo "testing";
 	echo "inside";
+	echo "one more change";
 }
