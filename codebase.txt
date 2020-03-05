@@ -2,5 +2,4 @@ function code() {
 	echo "contains codebase in dev branch";
 	echo "changes made to master";
 	echo "check this one branch";
-	echo "review required";
 }
